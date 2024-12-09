@@ -1,0 +1,6 @@
+"0","Scotland_2021_depression_data <- Scotland_2021_depression_data %>% "
+"0","  mutate(Sex = c('Female','Female','Female','Female','Female',"
+"0","                 'Male','Male','Male','Male','Male')) "
+"0","#Sex did not appear to be included in the downloadable csv file, "
+"0","#so the only option seemed to be to manually check this "
+"0","#against the bar charts on the ScotPHO profiles tool. "

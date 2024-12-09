@@ -1,0 +1,26 @@
+"0","data <- read.csv(""Inputs/ScotPHO_data_extract_2024-11-28.csv"")"
+"0",""
+"0","glimpse(data)"
+"1","Rows: 27"
+"1",""
+"1","
+"
+"1","Columns: 12"
+"1",""
+"1","
+"
+"1","$ area_code                 [3m[38;5;246m<chr>[39m[23m ""S00000001"", ""S00000001"", ""S00000001"", ""S00000001"", ""S00…
+$ area_type                 [3m[38;5;246m<chr>[39m[23m ""Scotland"", ""Scotland"", ""Scotland"", ""Scotland"", ""Scotlan…
+$ area_name                 [3m[38;5;246m<chr>[39m[23m ""Scotland"", ""Scotland"", ""Scotland"", ""Scotland"", ""Scotlan…
+$ year                      [3m[38;5;246m<int>[39m[23m 2021, 2021, 2021, 2021, 2021, 2021, 2021, 2021, 2021, 20…
+$ period                    [3m[38;5;246m<chr>[39m[23m ""Survey year (2021)"", ""Survey year (2021)"", ""Survey year…
+$ indicator                 [3m[38;5;246m<chr>[39m[23m ""Depression symptoms in past week"", ""Depression symptoms…
+$ quintile                  [3m[38;5;246m<chr>[39m[23m ""1 - most deprived"", ""2"", ""3"", ""4"", ""5 - least deprived""…
+$ measure                   [3m[38;5;246m<chr>[39m[23m ""Percentage"", ""Percentage"", ""Percentage"", ""Percentage"", …
+$ value                     [3m[38;5;246m<dbl>[39m[23m 18.7, 15.4, 8.2, 7.2, 6.4, 10.2, 10.1, 14.1, 19.6, 9.7, …
+$ upper_confidence_interval [3m[38;5;246m<dbl>[39m[23m 29.5, 25.4, 13.2, 14.0, 14.3, 13.0, 20.8, 24.0, 38.7, 18…
+$ lower_confidence_interval [3m[38;5;246m<dbl>[39m[23m 11.2, 8.8, 5.0, 3.6, 2.7, 7.9, 4.6, 7.9, 8.6, 4.8, 5.0, …
+$ label_inequality          [3m[38;5;246m<chr>[39m[23m ""Adults"", ""Adults"", ""Adults"", ""Adults"", ""Adults"", ""Adult…"
+"1",""
+"1","
+"

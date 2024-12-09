@@ -1,0 +1,2 @@
+"0","Scotland_2021_depression_data <- Scotland_2021_depression_data %>% "
+"0","  rename('SIMD_quintile' = 'quintile')"

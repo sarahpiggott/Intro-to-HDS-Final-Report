@@ -1,0 +1,4 @@
+"0","female_data <- read.csv(""Inputs/ScotPHO data - Patterns of inequality_2024-11-16_female.csv"")"
+"2","Warning: cannot open file 'Inputs/ScotPHO data - Patterns of inequality_2024-11-16_female.csv': No such file or directory"
+"2","Error in file(file, ""rt"") : cannot open the connection
+"

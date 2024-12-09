@@ -1,0 +1,11 @@
+Sex,SIMD_quintile,indicator,measure,value,upper_confidence_interval,lower_confidence_interval
+Female,1 - most deprived,Depression symptoms in past week,Percentage,18.7,29.5,11.2
+Female,2,Depression symptoms in past week,Percentage,15.4,25.4,8.8
+Female,3,Depression symptoms in past week,Percentage,8.2,13.2,5
+Female,4,Depression symptoms in past week,Percentage,7.2,14,3.6
+Female,5 - least deprived,Depression symptoms in past week,Percentage,6.4,14.3,2.7
+Male,1 - most deprived,Depression symptoms in past week,Percentage,10.1,20.8,4.6
+Male,2,Depression symptoms in past week,Percentage,14.1,24,7.9
+Male,3,Depression symptoms in past week,Percentage,19.6,38.7,8.6
+Male,4,Depression symptoms in past week,Percentage,9.7,18.6,4.8
+Male,5 - least deprived,Depression symptoms in past week,Percentage,8.8,14.8,5

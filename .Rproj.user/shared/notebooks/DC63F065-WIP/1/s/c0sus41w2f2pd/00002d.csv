@@ -1,0 +1,4 @@
+"0","Scotland_2021_depression_data <- Scotland_2021_depression_data %>% "
+"0","  relocate('Sex', 'SIMD_quintile', .before = 'indicator')"
+"0",""
+"0","tibble(Scotland_2021_depression_data)"
